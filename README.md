@@ -1,7 +1,5 @@
 # animations
  gsap animations
- 
-works better in http-server
 
  Descargar Node.js
 	
